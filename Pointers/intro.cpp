@@ -32,7 +32,7 @@ int main() {
 
 
     int *p = &num;
-    cout<< "before: " << num <<endl;
+    cout<< "before: " << num << endl;
     (*p)++;
     cout<< "after: " << num << endl;
 

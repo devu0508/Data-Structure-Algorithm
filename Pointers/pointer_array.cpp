@@ -10,16 +10,16 @@ int main(){
     // cout <<" value at second memory block is " << *(arr + 1) << endl;
     // cout <<" Add 1 to value at first memory block is " << (*arr) + 1 << endl;
 
-    // int temp[10];
-    // cout << sizeof(temp) << endl;
+    //  int temp[10];
+    //  cout << sizeof(temp) << endl;
     // cout << sizeof(*temp) << endl;
     // cout << sizeof(&temp) << endl;
 
 
 
-    // int *ptr = &temp[0];
-    // cout << sizeof(ptr) << endl;
-    // cout << sizeof(*ptr) << endl;
+    //  int *ptr = &temp[0];
+    //  cout << sizeof(ptr) << endl;
+    //  cout << sizeof(*ptr) << endl;
     // cout << sizeof(&ptr) << endl;
 
     // int a[20] = {1,2,3,5};
@@ -32,15 +32,15 @@ int main(){
     // cout << *p << endl;
     // cout << &p << endl;
 
-    int arr[10];
+    // int arr[10];
 
     //ERROR
     // arr = arr+1;
 
-    int *ptr = &arr[0];
-    cout << ptr << endl;
-    ptr = ptr + 1;
-    cout << ptr << endl;
+    // int *ptr = &arr[0];
+    // cout << ptr << endl;
+    // ptr = ptr + 1;
+    // cout << ptr << endl;
 
 
 
